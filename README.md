@@ -19,4 +19,4 @@ bash scripts/run_torch_mac.sh
   fixed / decaying / SNR server steps; partial participation; SCAFFOLD; FedAvg).
 * `fedweights/engine.py` — simulator used for the main table (baselines, plain HEW, ablations).
 * `experiments/` — experiment suites (`e2_grid.py`, `e3_improvements.py`), table and figure scripts.
-* `hew_torch/` — model-agnostic PyTorch implementation (see `hew_torch/README.md`).
+* `hew_torch/` — model-agnostic PyTorch implementation.
